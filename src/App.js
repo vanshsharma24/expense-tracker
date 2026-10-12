@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Tracker from './Tracker';
 import './App.css';
 function App() {
@@ -7,5 +6,4 @@ function App() {
   </>
   );
 }
-
 export default App;
